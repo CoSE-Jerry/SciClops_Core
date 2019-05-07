@@ -1,1 +1,1 @@
-# SciClops_Core
+# SciClops_Core v 1.03beta
